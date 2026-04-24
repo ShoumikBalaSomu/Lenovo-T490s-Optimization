@@ -1,0 +1,3 @@
+The modified files (`README.md`, `optimize-fedora.sh`, `optimize-windows.ps1`) are all source/config files (.md, .sh, .ps1). There are no build artifacts, dependencies, or temporary files in the changes that require ignoring.
+
+(empty)
